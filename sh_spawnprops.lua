@@ -575,7 +575,7 @@ Props_4[322] = 			"models/props/cs_office/Table_meeting.mdl"
 Props_4[323] = 			"models/props/cs_office/trash_can.mdl"
 Props_4[324] = 			"models/props/de_nuke/light_red1.mdl"
 
-
+Props_5 = {}
 Props_5[1]=             "models/props_combine/breenconsole.mdl" 
 Props_5[2]=             "models/props_combine/combine_interface001.mdl" 
 Props_5[3]=             "models/props_combine/combine_interface002.mdl" 
